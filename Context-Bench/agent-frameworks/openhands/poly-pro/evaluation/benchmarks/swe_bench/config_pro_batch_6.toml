@@ -1,0 +1,7 @@
+# SWE-bench Pro Batch 6 configuration
+selected_ids = [
+    "instance_ansible__ansible-8127abbc298cabf04aaa89a478fc5e5e3432a6fc-v30a923fb5c164d6cd18280c02422f75e611e8fb2",
+    "instance_internetarchive__openlibrary-e1e502986a3b003899a8347ac8a7ff7b08cbfc39-v08d8e8889ec945ab821fb156c04c7d2e2810debb",
+    "instance_qutebrowser__qutebrowser-473a15f7908f2bb6d670b0e908ab34a28d8cf7e2-v363c8a7e5ccdf6968fc7ab84a2053ac78036691d",
+    "instance_element-hq__element-web-aeabf3b18896ac1eb7ae9757e66ce886120f8309-vnan"
+]

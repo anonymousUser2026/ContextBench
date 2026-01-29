@@ -1,0 +1,13 @@
+# Batch 3 configuration
+selected_ids = [
+    "huggingface__transformers-26839",
+    "keras-team__keras-19863",
+    "keras-team__keras-19844",
+    "huggingface__transformers-13693",
+    "huggingface__transformers-15158",
+    "keras-team__keras-19201",
+    "huggingface__transformers-17082",
+    "huggingface__transformers-28071",
+    "huggingface__transformers-23796",
+    "huggingface__transformers-7078"
+]

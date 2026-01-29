@@ -1,0 +1,9 @@
+# PolyBench Batch 12 configuration
+selected_ids = [
+    "langchain-ai__langchain-5584",
+    "huggingface__transformers-6098",
+    "microsoft__vscode-153121",
+    "huggingface__transformers-23141",
+    "serverless__serverless-2945",
+    "keras-team__keras-19973"
+]

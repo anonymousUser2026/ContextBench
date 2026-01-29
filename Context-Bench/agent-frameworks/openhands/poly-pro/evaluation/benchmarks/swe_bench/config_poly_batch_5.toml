@@ -1,0 +1,13 @@
+# PolyBench Batch 5 configuration
+selected_ids = [
+    "serverless__serverless-3457",
+    "microsoft__vscode-135197",
+    "sveltejs__svelte-4288",
+    "sveltejs__svelte-728",
+    "mui__material-ui-15526",
+    "microsoft__vscode-160342",
+    "serverless__serverless-7374",
+    "mui__material-ui-20252",
+    "sveltejs__svelte-3749",
+    "prettier__prettier-6604"
+]

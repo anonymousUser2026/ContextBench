@@ -1,0 +1,13 @@
+# PolyBench Batch 6 configuration
+selected_ids = [
+    "sveltejs__svelte-3949",
+    "mui__material-ui-18141",
+    "mui__material-ui-18257",
+    "sveltejs__svelte-510",
+    "sveltejs__svelte-3702",
+    "sveltejs__svelte-1310",
+    "microsoft__vscode-177084",
+    "mui__material-ui-11451",
+    "mui__material-ui-28813",
+    "prettier__prettier-14400"
+]

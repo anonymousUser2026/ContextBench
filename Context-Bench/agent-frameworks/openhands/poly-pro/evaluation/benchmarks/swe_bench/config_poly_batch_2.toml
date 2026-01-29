@@ -1,0 +1,13 @@
+# PolyBench Batch 2 configuration
+selected_ids = [
+    "huggingface__transformers-29449",
+    "huggingface__transformers-3716",
+    "huggingface__transformers-8624",
+    "huggingface__transformers-29311",
+    "huggingface__transformers-12981",
+    "huggingface__transformers-30556",
+    "huggingface__transformers-16198",
+    "huggingface__transformers-23126",
+    "yt-dlp__yt-dlp-9862",
+    "langchain-ai__langchain-4009"
+]

@@ -1,0 +1,13 @@
+# PolyBench Batch 4 configuration
+selected_ids = [
+    "huggingface__transformers-28535",
+    "mui__material-ui-13778",
+    "prettier__prettier-361",
+    "sveltejs__svelte-1227",
+    "serverless__serverless-2576",
+    "prettier__prettier-8046",
+    "mui__material-ui-19121",
+    "sveltejs__svelte-3451",
+    "serverless__serverless-5571",
+    "sveltejs__svelte-907"
+]

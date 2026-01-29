@@ -1,0 +1,12 @@
+# SWE-Bench Verified 测试配置
+# 只测试 CSV 文件中的 Verified 实例（共 174 个）
+
+# 从 verified_instances.txt 读取实例列表
+# 或者直接在这里指定特定的实例 ID
+
+# 示例：指定特定实例（取消注释以使用）
+# selected_ids = [
+#     'SWE-Bench-Verified__python__maintenance__bugfix__27320d49',
+#     'SWE-Bench-Verified__python__maintenance__bugfix__e09a2d75',
+# ]
+

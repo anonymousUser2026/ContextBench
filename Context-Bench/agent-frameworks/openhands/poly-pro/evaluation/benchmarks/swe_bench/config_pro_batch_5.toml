@@ -1,0 +1,13 @@
+# SWE-bench Pro Batch 5 configuration
+selected_ids = [
+    "instance_navidrome__navidrome-d8e794317f788198227e10fb667e10496b3eb99a",
+    "instance_navidrome__navidrome-31799662706fedddf5bcc1a76b50409d1f91d327",
+    "instance_element-hq__element-web-fe14847bb9bb07cab1b9c6c54335ff22ca5e516a-vnan",
+    "instance_NodeBB__NodeBB-767973717be700f46f06f3e7f4fc550c63509046-vnan",
+    "instance_flipt-io__flipt-756f00f79ba8abf9fe53f3c6c818123b42eb7355",
+    "instance_NodeBB__NodeBB-04998908ba6721d64eba79ae3b65a351dcfbc5b5-vnan",
+    "instance_NodeBB__NodeBB-f2082d7de85eb62a70819f4f3396dd85626a0c0a-vd59a5728dfc977f44533186ace531248c2917516",
+    "instance_NodeBB__NodeBB-f48ed3658aab7be0f1165d4c1f89af48d7865189-v0495b863a912fbff5749c67e860612b91825407c",
+    "instance_internetarchive__openlibrary-910b08570210509f3bcfebf35c093a48243fe754-v0f5aece3601a5b4419f7ccec1dbda2071be28ee4",
+    "instance_element-hq__element-web-5dfde12c1c1c0b6e48f17e3405468593e39d9492-vnan"
+]

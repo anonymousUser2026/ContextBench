@@ -1,0 +1,13 @@
+# Batch 9 configuration
+selected_ids = [
+    "mui__material-ui-34610",
+    "serverless__serverless-5775",
+    "microsoft__vscode-153857",
+    "sveltejs__svelte-3151",
+    "yt-dlp__yt-dlp-5933",
+    "huggingface__transformers-27463",
+    "keras-team__keras-19924",
+    "huggingface__transformers-20136",
+    "huggingface__transformers-29688",
+    "keras-team__keras-19838"
+]

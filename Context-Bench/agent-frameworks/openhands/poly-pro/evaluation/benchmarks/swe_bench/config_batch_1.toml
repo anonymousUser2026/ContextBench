@@ -1,0 +1,13 @@
+# Batch 1 configuration
+selected_ids = [
+    "keras-team__keras-18553",
+    "huggingface__transformers-28517",
+    "huggingface__transformers-24238",
+    "langchain-ai__langchain-5609",
+    "keras-team__keras-19484",
+    "huggingface__transformers-23223",
+    "keras-team__keras-19775",
+    "huggingface__transformers-15795",
+    "huggingface__transformers-21768",
+    "keras-team__keras-19636"
+]

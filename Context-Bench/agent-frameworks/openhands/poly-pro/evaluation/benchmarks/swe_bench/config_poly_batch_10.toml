@@ -1,0 +1,13 @@
+# PolyBench Batch 10 configuration
+selected_ids = [
+    "huggingface__transformers-13989",
+    "huggingface__transformers-21969",
+    "huggingface__transformers-22458",
+    "huggingface__transformers-13865",
+    "huggingface__transformers-22920",
+    "huggingface__transformers-27663",
+    "huggingface__transformers-5122",
+    "huggingface__transformers-19590",
+    "Significant-Gravitas__AutoGPT-4652",
+    "keras-team__keras-18871"
+]

@@ -1,0 +1,13 @@
+# PolyBench Batch 11 configuration
+selected_ids = [
+    "langchain-ai__langchain-19331",
+    "microsoft__vscode-110094",
+    "mui__material-ui-19072",
+    "mui__material-ui-11987",
+    "coder__code-server-4923",
+    "prettier__prettier-459",
+    "microsoft__vscode-109750",
+    "sveltejs__svelte-6458",
+    "mui__material-ui-13534",
+    "coder__code-server-6278"
+]
